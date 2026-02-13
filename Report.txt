@@ -1,0 +1,47 @@
+Phishing Email Analysis Report
+******************************
+
+Sample Phishing Email
+*********************
+
+From: support@paypa1.com
+Subject: Urgent! Your Account Will Be Suspended
+
+Dear Customer,
+
+We detected unusual activity in your account.
+Please click the link below to verify your account immediately:
+
+http://paypal-verification-alert.com/login
+
+If you do not verify within 24 hours, your account will be permanently suspended.
+
+Thank you,
+PayPal Support Team
+
+******************************************************************************
+
+## 1. Sender Address Analysis
+The sender email is support@paypa1.com.
+The domain is fake because it uses number "1" instead of "l".
+This indicates email spoofing.
+
+## 2. Urgency and Threat Language
+The email uses threatening language such as:
+- "Urgent"
+- "Account will be suspended"
+This is a common phishing tactic.
+
+## 3. Suspicious Link
+The link provided is:
+http://paypal-verification-alert.com/login
+
+This is not the official PayPal website.
+It is a fake domain.
+
+## 4. Generic Greeting
+The email starts with "Dear Customer" instead of the user's real name.
+
+## 5. Conclusion
+This email contains multiple phishing indicators including spoofed domain, urgent language, suspicious URL, and generic greeting.
+Therefore, it is a phishing email.
